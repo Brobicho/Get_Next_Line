@@ -7,3 +7,5 @@
 * Une seule variable statique
 
 Réalisé au 101.
+
+(c)opyleft brobicho 2018
